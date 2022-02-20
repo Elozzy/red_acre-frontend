@@ -1,46 +1,63 @@
-# Getting Started with Create React App
+# RedAcre-Frontend-code-challenge
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+# About
 
-In the project directory, you can run:
+A React App to track Popeye's Location
 
-### `npm start`
+## Link to Hosted App
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- [API link](http://safe-sierra-84083.herokuapp.com/api/v1/records)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Link to Swagger Doc
 
-### `npm test`
+- [Swaager Doc link](https://safe-sierra-84083.herokuapp.com/api-docs/)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Tech Stack Used
 
-### `npm run build`
+- [React.js](https://reactjs.org/)
+- [Typescript](https://www.typescriptlang.org/)
+- [Mapbox](https://www.mapbox.com/)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Application Features
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- A react app to track the location of Popeye
 
-### `npm run eject`
+## How To Use
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+To clone and run this application, you'll need [Git](https://git-scm.com) and [React.js](https://reactjs.org/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```bash
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+# Clone this repository
+$ git clone https://github.com/Elozzy/getir-code-challenge.git
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+# Navigate into the cloned repository
+$ cd into the currently cloned directory
 
-## Learn More
+# Install dependencies
+$ npm install
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+# Create .env file for environmental variables in your root directory like the sample.env file and provide the keys
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+# Run the app
+$ npm start
+
+# Check the port on the specified port on the env or 4600
+
+# Run test
+$ npm run test
+```
+
+```
+
+## Author
+
+Eloghosa Osagie
+
+## License
+
+ISC
+
+---
