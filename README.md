@@ -22,7 +22,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [R
 ```bash
 
 # Clone this repository
-$ git clone https://github.com/Elozzy/getir-code-challenge.git
+$ git clone https://github.com/Elozzy/red_acre-frontend.git
 
 # Navigate into the cloned repository
 $ cd into the currently cloned directory
