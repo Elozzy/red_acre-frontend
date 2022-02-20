@@ -4,15 +4,6 @@
 # About
 
 A React App to track Popeye's Location
-
-## Link to Hosted App
-
-- [API link](http://safe-sierra-84083.herokuapp.com/api/v1/records)
-
-## Link to Swagger Doc
-
-- [Swaager Doc link](https://safe-sierra-84083.herokuapp.com/api-docs/)
-
 ## Tech Stack Used
 
 - [React.js](https://reactjs.org/)
@@ -60,4 +51,4 @@ Eloghosa Osagie
 
 ISC
 
----
+---# red_acre-frontend
