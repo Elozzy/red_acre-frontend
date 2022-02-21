@@ -3,8 +3,8 @@ import { SyntheticEvent, useEffect, useRef, useState } from 'react';
 import styled from 'styled-components';
 
 import MapboxMap, { CoordinatePoint } from "./components/mapbox-map/mapbox-map"
-import MovementTimeRadioGroup from './components/movement-time-radio-group/movement-time-radio-group';
-import RouteItem  from './components/route-item/route-item';
+import MovementTimeRadioGroup from './components/movementComponent/movement-time-radio-group';
+import RouteItem  from './components/routeComponent/route-item';
 const StyledApp = styled.div`
   .side-nav {
     height: 50%;
